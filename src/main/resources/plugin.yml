@@ -1,0 +1,4 @@
+name: MobDrop
+main: com.example.mobdrop.MobDropPlugin
+version: 1.0-SNAPSHOT
+api-version: '1.21'

@@ -1,0 +1,7 @@
+debug: true
+
+drops:
+  example:
+    mob: ENDER_DRAGON
+    item: END_PORTAL_FRAME
+    chance: 50.0
